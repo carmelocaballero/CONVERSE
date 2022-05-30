@@ -17,5 +17,6 @@
   text-decoration: none;
   color: red;
   font-size: 20px;
+  user-select: none;
   /* font-style: oblique; */
 }
